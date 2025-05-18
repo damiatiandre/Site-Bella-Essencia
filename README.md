@@ -2,7 +2,9 @@
 ![image](https://github.com/user-attachments/assets/20fac25a-1354-49f2-9460-8558b2dfcd21)
 <h1 align="center"> Bella Essência - Landing Page </h1>
 Landing page responsiva para clínica de estética, focada em conversão de clientes via WhatsApp, com design elegante e performance otimizada.
-Desenvolvido exclusivamente pela DamiArt Studio, empresa da qual sou o organizador.
+<p>Desenvolvido exclusivamente pela <b>DamiArt Studio</b>, empresa da qual sou o organizador.</p>
+
+<p><b>Este site também tem com objetivo servir de apresentação para a PEX - Projeto de extensão da faculdade Descomplica.</b><p>
 
 🚀 Tecnologias
 HTML5 (Semântico + Acessível)
